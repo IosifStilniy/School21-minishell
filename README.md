@@ -33,7 +33,7 @@ connected to the input of the next command via a pipe.
 expands to their values.
 * **$?** expands to the exit status of the most recently executed
 foreground pipeline.
-* **ctrl-C**, **ctrl-D** and **ctrl-\** behaves like in bash.
+* **ctrl-C**, **ctrl-D** and **ctrl-\\** behaves like in bash.
 * In interactive mode:
   - **ctrl-C** displays a new prompt on a new line.
   - **ctrl-D** exits the shell.
