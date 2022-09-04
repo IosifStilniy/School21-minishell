@@ -48,3 +48,7 @@ foreground pipeline.
   - exit with no options
 * **&&** and **||** for priorities.
 * Wildcards **\*** working for the current working directory.
+
+---
+
+<img width="1191" alt="Screen Shot 2022-09-04 at 19 17 46" src="https://user-images.githubusercontent.com/89987795/188323169-6aa808d2-466a-4c87-8088-cc0a321df01e.png">
